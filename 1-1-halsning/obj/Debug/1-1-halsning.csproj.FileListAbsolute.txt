@@ -1,0 +1,6 @@
+P:\1DV402\practice\1-1-halsning\bin\Debug\1-1-halsning.exe.config
+P:\1DV402\practice\1-1-halsning\bin\Debug\1-1-halsning.exe
+P:\1DV402\practice\1-1-halsning\bin\Debug\1-1-halsning.pdb
+P:\1DV402\practice\1-1-halsning\obj\Debug\1-1-halsning.csprojResolveAssemblyReference.cache
+P:\1DV402\practice\1-1-halsning\obj\Debug\1-1-halsning.exe
+P:\1DV402\practice\1-1-halsning\obj\Debug\1-1-halsning.pdb

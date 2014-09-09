@@ -1,0 +1,5 @@
+P:\1DV402\practice\1-3-finn-det-logiska-felet\bin\Debug\1-3-finn-det-logiska-felet.exe.config
+P:\1DV402\practice\1-3-finn-det-logiska-felet\bin\Debug\1-3-finn-det-logiska-felet.exe
+P:\1DV402\practice\1-3-finn-det-logiska-felet\bin\Debug\1-3-finn-det-logiska-felet.pdb
+P:\1DV402\practice\1-3-finn-det-logiska-felet\obj\Debug\1-3-finn-det-logiska-felet.exe
+P:\1DV402\practice\1-3-finn-det-logiska-felet\obj\Debug\1-3-finn-det-logiska-felet.pdb

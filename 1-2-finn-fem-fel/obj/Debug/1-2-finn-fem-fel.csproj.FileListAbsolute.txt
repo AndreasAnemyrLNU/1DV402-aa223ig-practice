@@ -1,0 +1,6 @@
+P:\1DV402\practice\1-2-finn-fem-fel\bin\Debug\1-2-finn-fem-fel.exe.config
+P:\1DV402\practice\1-2-finn-fem-fel\bin\Debug\1-2-finn-fem-fel.exe
+P:\1DV402\practice\1-2-finn-fem-fel\bin\Debug\1-2-finn-fem-fel.pdb
+P:\1DV402\practice\1-2-finn-fem-fel\obj\Debug\1-2-finn-fem-fel.csprojResolveAssemblyReference.cache
+P:\1DV402\practice\1-2-finn-fem-fel\obj\Debug\1-2-finn-fem-fel.exe
+P:\1DV402\practice\1-2-finn-fem-fel\obj\Debug\1-2-finn-fem-fel.pdb

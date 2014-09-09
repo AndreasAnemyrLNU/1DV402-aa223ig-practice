@@ -1,0 +1,6 @@
+P:\1DV402\practice\1-4-Konvertera-Fahrenheit-till-Celcius\bin\Debug\1-4-Konvertera-Fahrenheit-till-Celcius.exe.config
+P:\1DV402\practice\1-4-Konvertera-Fahrenheit-till-Celcius\bin\Debug\1-4-Konvertera-Fahrenheit-till-Celcius.exe
+P:\1DV402\practice\1-4-Konvertera-Fahrenheit-till-Celcius\bin\Debug\1-4-Konvertera-Fahrenheit-till-Celcius.pdb
+P:\1DV402\practice\1-4-Konvertera-Fahrenheit-till-Celcius\obj\Debug\1-4-Konvertera-Fahrenheit-till-Celcius.exe
+P:\1DV402\practice\1-4-Konvertera-Fahrenheit-till-Celcius\obj\Debug\1-4-Konvertera-Fahrenheit-till-Celcius.pdb
+P:\1DV402\practice\1-4-Konvertera-Fahrenheit-till-Celcius\obj\Debug\1-4-Konvertera-Fahrenheit-till-Celcius.csprojResolveAssemblyReference.cache
