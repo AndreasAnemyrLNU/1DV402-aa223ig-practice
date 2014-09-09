@@ -1,0 +1,6 @@
+P:\1DV402\1DV402-aa223ig-practice\1-8-dubbelt-upp\bin\Debug\1-8-dubbelt-upp.exe.config
+P:\1DV402\1DV402-aa223ig-practice\1-8-dubbelt-upp\bin\Debug\1-8-dubbelt-upp.exe
+P:\1DV402\1DV402-aa223ig-practice\1-8-dubbelt-upp\bin\Debug\1-8-dubbelt-upp.pdb
+P:\1DV402\1DV402-aa223ig-practice\1-8-dubbelt-upp\obj\Debug\1-8-dubbelt-upp.csprojResolveAssemblyReference.cache
+P:\1DV402\1DV402-aa223ig-practice\1-8-dubbelt-upp\obj\Debug\1-8-dubbelt-upp.exe
+P:\1DV402\1DV402-aa223ig-practice\1-8-dubbelt-upp\obj\Debug\1-8-dubbelt-upp.pdb
