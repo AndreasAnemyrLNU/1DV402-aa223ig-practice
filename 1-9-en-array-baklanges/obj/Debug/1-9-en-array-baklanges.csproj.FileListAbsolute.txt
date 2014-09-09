@@ -1,0 +1,6 @@
+P:\1DV402\1DV402-aa223ig-practice\1-9-en-array-baklanges\bin\Debug\1-9-en-array-baklanges.exe.config
+P:\1DV402\1DV402-aa223ig-practice\1-9-en-array-baklanges\bin\Debug\1-9-en-array-baklanges.exe
+P:\1DV402\1DV402-aa223ig-practice\1-9-en-array-baklanges\bin\Debug\1-9-en-array-baklanges.pdb
+P:\1DV402\1DV402-aa223ig-practice\1-9-en-array-baklanges\obj\Debug\1-9-en-array-baklanges.csprojResolveAssemblyReference.cache
+P:\1DV402\1DV402-aa223ig-practice\1-9-en-array-baklanges\obj\Debug\1-9-en-array-baklanges.exe
+P:\1DV402\1DV402-aa223ig-practice\1-9-en-array-baklanges\obj\Debug\1-9-en-array-baklanges.pdb
