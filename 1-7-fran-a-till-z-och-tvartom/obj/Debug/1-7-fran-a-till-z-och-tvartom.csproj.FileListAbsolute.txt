@@ -1,1 +1,6 @@
 P:\1DV402\1DV402-aa223ig-practice\1-7-fran-a-till-z-och-tvartom\bin\Debug\1-7-fran-a-till-z-och-tvartom.exe.config
+P:\1DV402\1DV402-aa223ig-practice\1-7-fran-a-till-z-och-tvartom\bin\Debug\1-7-fran-a-till-z-och-tvartom.exe
+P:\1DV402\1DV402-aa223ig-practice\1-7-fran-a-till-z-och-tvartom\bin\Debug\1-7-fran-a-till-z-och-tvartom.pdb
+P:\1DV402\1DV402-aa223ig-practice\1-7-fran-a-till-z-och-tvartom\obj\Debug\1-7-fran-a-till-z-och-tvartom.csprojResolveAssemblyReference.cache
+P:\1DV402\1DV402-aa223ig-practice\1-7-fran-a-till-z-och-tvartom\obj\Debug\1-7-fran-a-till-z-och-tvartom.exe
+P:\1DV402\1DV402-aa223ig-practice\1-7-fran-a-till-z-och-tvartom\obj\Debug\1-7-fran-a-till-z-och-tvartom.pdb
