@@ -1,0 +1,6 @@
+P:\1DV402\1DV402-aa223ig-practice\1-6-produkten-av-heltal\bin\Debug\1-6-produkten-av-heltal.exe.config
+P:\1DV402\1DV402-aa223ig-practice\1-6-produkten-av-heltal\bin\Debug\1-6-produkten-av-heltal.exe
+P:\1DV402\1DV402-aa223ig-practice\1-6-produkten-av-heltal\bin\Debug\1-6-produkten-av-heltal.pdb
+P:\1DV402\1DV402-aa223ig-practice\1-6-produkten-av-heltal\obj\Debug\1-6-produkten-av-heltal.csprojResolveAssemblyReference.cache
+P:\1DV402\1DV402-aa223ig-practice\1-6-produkten-av-heltal\obj\Debug\1-6-produkten-av-heltal.exe
+P:\1DV402\1DV402-aa223ig-practice\1-6-produkten-av-heltal\obj\Debug\1-6-produkten-av-heltal.pdb
